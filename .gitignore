@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+texturas_juego.spp.painter_lock
+texturas_juego_autosave_0.spp
+texturas_juego_autosave_1.spp
